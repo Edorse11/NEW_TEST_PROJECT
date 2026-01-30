@@ -69,5 +69,22 @@ Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
 <br />
 <br />
 
+<h2>SQL Project 6 </h2>
+Maya in Customer Success is examining transaction risk around withdrawals. She’s looking for situations where a large withdrawal leaves the account with a negative balance greater than $500 — specifically when the remaining amount is lower than the withdrawal itself.
+<br />
+
+
+###
+<p align="center">
+Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/9a55e08e-932c-4803-8d33-68ad27f9bf5f" />
+<br />
+<br />
+
+
+
+
+
+
 
 </p>
